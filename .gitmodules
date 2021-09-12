@@ -1,0 +1,45 @@
+[submodule "python/youtube-dl"]
+	path = python/youtube-dl
+	url = https://github.com/ytdl-org/youtube-dl
+[submodule "python/thefuck"]
+	path = python/thefuck
+	url = https://github.com/nvbn/thefuck
+[submodule "python/httpie"]
+	path = python/httpie
+	url = https://github.com/httpie/httpie
+[submodule "python/requests"]
+	path = python/requests
+	url = https://github.com/psf/requests
+[submodule "python/rich"]
+	path = python/rich
+	url = https://github.com/willmcgugan/rich
+[submodule "python/sherlock"]
+	path = python/sherlock
+	url = https://github.com/sherlock-project/sherlock
+[submodule "python/wttr.in"]
+	path = python/wttr.in
+	url = https://github.com/chubin/wttr.in
+[submodule "python/requests-html"]
+	path = python/requests-html
+	url = https://github.com/psf/requests-html
+[submodule "python/loguru"]
+	path = python/loguru
+	url = https://github.com/Delgan/loguru
+[submodule "python/ubelt"]
+	path = python/ubelt
+	url = https://github.com/Erotemic/ubelt
+[submodule "java/jadx"]
+	path = java/jadx
+	url = https://github.com/skylot/jadx
+[submodule "javascript/insomnia"]
+	path = javascript/insomnia
+	url = https://github.com/Kong/insomnia
+[submodule "shell/Diggy"]
+	path = shell/Diggy
+	url = https://github.com/s0md3v/Diggy
+[submodule "typescript/pokeclicker"]
+	path = typescript/pokeclicker
+	url = https://github.com/pokeclicker/pokeclicker
+[submodule "python/lutris"]
+	path = python/lutris
+	url = https://github.com/lutris/lutris
