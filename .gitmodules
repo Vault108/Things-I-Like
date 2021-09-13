@@ -43,3 +43,15 @@
 [submodule "python/lutris"]
 	path = python/lutris
 	url = https://github.com/lutris/lutris
+[submodule "pipreqs"]
+	path = pipreqs
+	url = https://github.com/bndr/pipreqs
+[submodule "python/pipreqs"]
+	path = python/pipreqs
+	url = https://github.com/bndr/pipreqs
+[submodule "c/zsh"]
+	path = c/zsh
+	url = https://github.com/zsh-users/zsh
+[submodule "shell/ohmyzsh"]
+	path = shell/ohmyzsh
+	url = https://github.com/ohmyzsh/ohmyzsh
