@@ -55,3 +55,5 @@
 [submodule "shell/ohmyzsh"]
 	path = shell/ohmyzsh
 	url = https://github.com/ohmyzsh/ohmyzsh
+	ignore = dirty
+
